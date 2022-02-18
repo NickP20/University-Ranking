@@ -68,6 +68,6 @@ The original data source that we attempted to utilize did not allow for web scra
 <strong>What's Next for the App?</strong><br>
 - Applying the application to alternate levels of education.
 - Expanding the geographic location of the app, global universities.
-- Adding additional parameters on which to filter schools.
+- Adding additional parameters on which to filter schools. 
 
 
